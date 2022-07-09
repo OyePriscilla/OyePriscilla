@@ -35,10 +35,10 @@
 
 <h3 align="left"><b>Connect with me</b> 📫</h3>
 <p align="left">
-  <a target="_blank" href="https://www.linkedin.com/in/isaac-imaobong-samuel/">
+  <a target="_blank" href="https://www.linkedin.com/in/priscilla-oyebade-aa35b8238/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img>
   </a>
-  <a target="_blank" href="mailto:zieecosam@gmail.com">
+  <a target="_blank" href="mailto:oyebadepriscilla22@gmail.com">
     <img src="https://img.shields.io/badge/-Google-rgb(67%2C%202%2C%20151)?style=for-the-badge&logo=Gmail&logoColor=white"></img>
   </a>
 </p>
